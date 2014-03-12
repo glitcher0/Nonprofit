@@ -1,0 +1,15 @@
+#################### PROJECT INFORMATION ####################
+20140312 - first commit
+20140312 - 7:30:00 - added README
+
+#############################################################
+
+Project Details:
+## -> Requirements:
+## -> LAST UPDATED:  20140312
+		1.  Store all documents in a printable format
+		2.  Means of creating new clients
+		3.  Means of entering in client-specific profile information
+		4.  Means of storing client-specific profile information
+		5.  Recall and print documents as needed
+		6.  Web-based interface that is password locked
